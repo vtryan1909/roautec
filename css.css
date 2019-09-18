@@ -1,0 +1,78 @@
+#cent{
+	text-align: center;
+}
+
+#lembre-se{
+	float:  left;
+}
+
+
+
+body{
+			background-color: #363636;
+			font-size: 16px;
+			font-family: Helvetica;
+			color: antiquewhite; 
+		}	
+
+		h1{
+			font-size: 32px;
+			text-align: center;
+			padding: 20px;
+		}
+
+		h2{
+			font-size: 24px;
+			color: darksalmon;
+		}
+
+		#botao{
+			text-align: center;
+		}
+		.botaoLogin{
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #ffffff;
+	padding: 6px 21px;
+	background: -webkit-gradient(
+		linear, left top, left bottom,
+		from(#eb12b1),
+		to(#b81fcf));
+	background: linear-gradient(
+		top,
+		#eb12b1 0%,
+		#b81fcf);
+	border-radius: 29px;
+	border: 2px solid #e00dd2;
+	box-shadow:
+		2px 2px 5px rgba(000,000,000,1),
+		inset 25px 0px 8px rgba(255,255,255,0);
+	text-shadow:
+		2px -1px 0px rgba(000,000,000,0.4),
+		0px 1px 0px rgba(255,255,255,0.5);
+		}
+
+		.botaoEnviar{
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #ffffff;
+	padding: 6px 21px;
+	background: -webkit-gradient(
+		linear, left top, left bottom,
+		from(#eb12b1),
+		to(#b81fcf));
+	background: linear-gradient(
+		top,
+		#eb12b1 0%,
+		#b81fcf);
+	border-radius: 29px;
+	border: 2px solid #e00dd2;
+	box-shadow:
+		2px 2px 5px rgba(000,000,000,1),
+		inset 25px 0px 8px rgba(255,255,255,0);
+	text-shadow:
+		2px -1px 0px rgba(000,000,000,0.4),
+		0px 1px 0px rgba(255,255,255,0.5);
+		}
